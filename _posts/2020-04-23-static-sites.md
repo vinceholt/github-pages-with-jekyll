@@ -1,1 +1,4 @@
-static sites are great
+---
+title: "Welcome to my blog"
+date: 2020-23-03
+---
