@@ -1,1 +1,0 @@
-Static sites are great
