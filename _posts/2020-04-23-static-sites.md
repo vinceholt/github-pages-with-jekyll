@@ -1,0 +1,1 @@
+static sites are great
